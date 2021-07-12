@@ -4,14 +4,8 @@
 <p align="center">
    <a href="https://discord.com/users/852590792697446440" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/arwellpretty" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=arwellpretty&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwellpretty&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=arwellpretty&theme=nord" width="%100" height="150px" alt="stats" />
-</details>
 
-## 💻 Interests
+##  Interests
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
