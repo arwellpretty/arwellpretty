@@ -11,10 +11,24 @@
 <img src="https://github-profile-trophy.vercel.app/?username=arwellpretty&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
 
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">Interests</summary>
- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-</details>
+## 💻 Interests
+
+<div align="center">
+    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=white"/>
+    <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+    <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img alt="css3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>
+
+##  Github Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearkxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=arwellpretty&color=dc143c"/>
+</div>
