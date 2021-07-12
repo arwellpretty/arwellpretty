@@ -1,6 +1,6 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hi there 👋</h2>
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hey, I am Arwell. I'm from Turkey and I love developing discord, instagram, twitter and telegram bots. I'm still learning Python, Javascript and C#. I did born 15 years ago. For contact with me;</h3>
-<h3>                                                                                            Contact</h3>
+<h3>                                                                                           Contact</h3>
 <p align="center">
    <a href="https://discord.com/users/852590792697446440" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/arwellpretty" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
