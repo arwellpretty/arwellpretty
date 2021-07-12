@@ -9,6 +9,9 @@
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="Python" align="center" src="https://img.shields.io/badge/-Python-7289DA?style=flat-square&logo=python&logoColor=white"/>
+    <img alt="C#" align="center" src="https://img.shields.io/badge/-CSharp-7289DA?style=flat-square&logo=csharp&logoColor=white"/>
+
 </div>
 
 ##  Github Stats
